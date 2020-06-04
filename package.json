@@ -1,7 +1,7 @@
 {
   "name": "gelf-adapter",
   "version": "0.0.1",
-  "description": "gelf-pro prototype-based modification https://github.com/kkamkou/node-gelf-pro",
+  "description": "Fork & gelf-pro prototype-based modification https://github.com/kkamkou/node-gelf-pro",
   "main": "src/gelf.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
